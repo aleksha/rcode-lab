@@ -19,5 +19,7 @@ Scripts:
   * `draw.py` - draw raw spectrum in channels (without energy calibration)
   * `draw_wo_bkg.py` - perform backgound subtruction
 
+# decompose
 
+An examople, how to use OstapHEP to perform a decomposition of several sources in spectrum
 
